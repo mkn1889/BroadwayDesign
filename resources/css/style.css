@@ -3,11 +3,12 @@ html{
   text-align:center;
   }
   .bgimage{
-  background-image: url('images/the-flatiron-building.png');}
+  background-image: url('../images/the-flatiron-building.png');}
 
   h1{
 font-size:70px;
 font-weight:bold;
+color:white;
 
 }
 h4{
@@ -24,4 +25,17 @@ h3{
 }
 p{
   font-size:14px;
+}
+.nav{
+  font-size:18px;
+  color:white;
+}
+.footer{
+  color:white;
+  font-size:11px;
+  background-color:dimgray;
+}
+.bgimage2{
+  color:white;
+  background-image: url('../images/the-flatiron-building.png');
 }
